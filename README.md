@@ -37,7 +37,7 @@ Dataset: NSL-KDD (Standard Benchmark)
 ⚙️ Installation & Setup
 1. Clone the Repository
 Bash
-git clone https://github.com/your-username/nids_project.git
+git clone [https://github.com/adityavasisht/NIDS.git]
 cd nids_project
 2. Setup Environment
 Bash
